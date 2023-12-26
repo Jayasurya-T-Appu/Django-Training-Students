@@ -1,0 +1,9 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    background-image: url('images/imgs.jpg');
+    background-size: contain;
+}
+button{
+    color: green;
+}
